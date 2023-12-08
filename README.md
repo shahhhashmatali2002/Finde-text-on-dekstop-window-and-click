@@ -1,0 +1,1 @@
+# Finde-text-on-dekstop-window-and-click
